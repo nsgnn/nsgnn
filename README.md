@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan G</h1>
+<h1 align="center">Hi 👋, I'm Nathan Gazey</h1>
 <h3 align="center">A passionate fullstack developer from FL</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nsgnn&label=Profile%20views&color=0e75b6&style=flat-square" alt="nsgnn" /> </p>
