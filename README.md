@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity3D, Virtual Reality Development, and Kotlin.**
 
-- 📄 See more about my experiences [nategg.me](nategg.me)
+- 📄 See more about my experiences [nategg.me](http://nategg.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
