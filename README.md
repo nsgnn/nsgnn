@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nsgnn&label=Profile%20views&color=0e75b6&style=flat-square" alt="nsgnn" /> </p>
 
-- 🔭 I’m currently working at [Insight Global](https://insightglobal.com/)
+- 🔭 I’m currently working at [Progress Residential](https://rentprogress.com/)
 
-- 🌱 I’m currently learning more about **Kotlin, TypeScript, Vue, and more.**
+- 🌱 I’m currently learning more about **Kotlin, TypeScript, Deno, and more.**
 
 - 💬 Ask me about **Unity3D, Virtual Reality Development, and Kotlin.**
 
